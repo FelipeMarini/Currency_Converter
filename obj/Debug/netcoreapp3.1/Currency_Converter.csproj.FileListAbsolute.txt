@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\bin\Debug\netcoreapp3.1\Currency_Converter.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\bin\Debug\netcoreapp3.1\Currency_Converter.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\bin\Debug\netcoreapp3.1\Currency_Converter.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\bin\Debug\netcoreapp3.1\Currency_Converter.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\bin\Debug\netcoreapp3.1\Currency_Converter.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\bin\Debug\netcoreapp3.1\Currency_Converter.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Currency_Converter\obj\Debug\netcoreapp3.1\Currency_Converter.genruntimeconfig.cache
